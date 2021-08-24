@@ -8,3 +8,5 @@ C:\Users\pablo\OneDrive\Documents\Tecnologo\6to semestre\.net\practicos\Practico
 C:\Users\pablo\OneDrive\Documents\Tecnologo\6to semestre\.net\practicos\Practico1\Practico1\bin\Debug\Shared.dll
 C:\Users\pablo\OneDrive\Documents\Tecnologo\6to semestre\.net\practicos\Practico1\Practico1\bin\Debug\Shared.pdb
 C:\Users\pablo\OneDrive\Documents\Tecnologo\6to semestre\.net\practicos\Practico1\Practico1\obj\Debug\Practico1.csproj.CopyComplete
+C:\Users\pablo\OneDrive\Documents\Tecnologo\6to semestre\.net\practicos\Practico1\Practico1\bin\Debug\DataAccesLayer.dll
+C:\Users\pablo\OneDrive\Documents\Tecnologo\6to semestre\.net\practicos\Practico1\Practico1\bin\Debug\DataAccesLayer.pdb

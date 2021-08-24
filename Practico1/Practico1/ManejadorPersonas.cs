@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DataAccesLayer;
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
@@ -9,7 +10,16 @@ namespace Shared
 {
     public class ManejadorPersonas
     {
-        public List<Persona> lista = new List<Persona>();
+        IDAL_Persona dal = new DAL_Persona_SQLNativo();
+
+        public List<Persona> lista;
+
+
+        public ManejadorPersonas()
+        {
+            lista = dal.GetPersonas();
+        }
+
 
         public List<Persona> listarPersonas()
         {
@@ -22,6 +32,7 @@ namespace Shared
             {
                 DateTime nacimiento = DateTime.ParseExact(fechaNac, "dd-MM-yyyy", CultureInfo.InvariantCulture);
                 Persona p = new Persona(nombre, documento, nacimiento);
+                dal.AddPersona(p);
                 lista.Add(p);
             }
 

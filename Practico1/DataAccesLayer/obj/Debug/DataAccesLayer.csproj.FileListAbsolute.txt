@@ -1,0 +1,9 @@
+C:\Users\pablo\OneDrive\Documents\Tecnologo\6to semestre\.net\practicos\Practico1\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\pablo\OneDrive\Documents\Tecnologo\6to semestre\.net\practicos\Practico1\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\pablo\OneDrive\Documents\Tecnologo\6to semestre\.net\practicos\Practico1\DataAccesLayer\bin\Debug\Shared.dll
+C:\Users\pablo\OneDrive\Documents\Tecnologo\6to semestre\.net\practicos\Practico1\DataAccesLayer\bin\Debug\Shared.pdb
+C:\Users\pablo\OneDrive\Documents\Tecnologo\6to semestre\.net\practicos\Practico1\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Documents\Tecnologo\6to semestre\.net\practicos\Practico1\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Documents\Tecnologo\6to semestre\.net\practicos\Practico1\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CopyComplete
+C:\Users\pablo\OneDrive\Documents\Tecnologo\6to semestre\.net\practicos\Practico1\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+C:\Users\pablo\OneDrive\Documents\Tecnologo\6to semestre\.net\practicos\Practico1\DataAccesLayer\obj\Debug\DataAccesLayer.pdb

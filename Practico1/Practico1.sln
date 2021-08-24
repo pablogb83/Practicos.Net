@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practico1", "Practico1\Prac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{CE04E2C3-363C-450C-A41E-FAD8B61AB0FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccesLayer", "DataAccesLayer\DataAccesLayer.csproj", "{2371FD63-1BF7-46A6-8167-6B23E510C8CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CE04E2C3-363C-450C-A41E-FAD8B61AB0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE04E2C3-363C-450C-A41E-FAD8B61AB0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE04E2C3-363C-450C-A41E-FAD8B61AB0FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2371FD63-1BF7-46A6-8167-6B23E510C8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2371FD63-1BF7-46A6-8167-6B23E510C8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2371FD63-1BF7-46A6-8167-6B23E510C8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2371FD63-1BF7-46A6-8167-6B23E510C8CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,4 +1,5 @@
-﻿using Shared;
+﻿using DataAccesLayer;
+using Shared;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
@@ -12,6 +13,9 @@ namespace Practico1
     {
         static void Main(string[] args)
         {
+
+            //IDAL_Persona dal = new DAL_Persona_SQLNativo();
+
 
             ManejadorPersonas manejador = new ManejadorPersonas();
             string nombre = "";
